@@ -1,6 +1,6 @@
 ---
 title: "Tổng kết và Tài nguyên"
-date: 2026-07-22
+date: 2026-07-01
 weight: 10
 chapter: false
 draft: false
