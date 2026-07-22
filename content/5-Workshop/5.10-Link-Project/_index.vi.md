@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 5.10. </b> "
 ---
 
-Sau 8 tuần nghiên cứu, thiết kế và triển khai thực tế, hệ thống **Quản lý Đặt vé xe (Bé Đặt Xe)** đã được hoàn thiện. Dự án áp dụng thành công kiến trúc Serverless trên AWS, đáp ứng đầy đủ các tiêu chí về tính khả dụng cao (High Availability), khả năng mở rộng tự động (Auto-scaling) và tối ưu chi phí (Pay-as-you-go).
+Sau 8 tuần nghiên cứu, thiết kế và triển khai thực tế, hệ thống **Quản lý Đặt vé xe đã được hoàn thiện. Dự án áp dụng thành công kiến trúc Serverless trên AWS, đáp ứng đầy đủ các tiêu chí về tính khả dụng cao (High Availability), khả năng mở rộng tự động (Auto-scaling) và tối ưu chi phí (Pay-as-you-go).
 
 Dưới đây là toàn bộ tài nguyên, mã nguồn và video báo cáo thực tế của dự án để hội đồng có thể trải nghiệm và đánh giá trực tiếp.
 
