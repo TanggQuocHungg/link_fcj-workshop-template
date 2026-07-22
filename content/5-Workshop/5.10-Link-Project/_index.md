@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 5.10. </b> "
 ---
 
-After 8 weeks of research, design, and hands-on implementation, the **Ride-Booking Management System (Bé Đặt Xe)** has been completed. The project successfully applies a Serverless architecture on AWS, fully meeting the criteria for High Availability, Auto-scaling, and cost optimization (Pay-as-you-go).
+After 8 weeks of research, design, and hands-on implementation, the **Ride-Booking Management System has been completed. The project successfully applies a Serverless architecture on AWS, fully meeting the criteria for High Availability, Auto-scaling, and cost optimization (Pay-as-you-go).
 
 Below are all the resources, source code, and the actual report video of the project, so that the review committee can experience and evaluate it directly.
 
